@@ -109,9 +109,6 @@ Responsive design
 🤝 Contributing
 Contributions are welcome! Feel free to submit a Pull Request.
 
-📄 License
-MIT License
-
 👨‍💻 Author
 Sharanagouda Biradar
 
