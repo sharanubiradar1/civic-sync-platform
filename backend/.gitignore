@@ -1,0 +1,67 @@
+# ============================================
+# BACKEND .gitignore
+# ============================================
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs
+lib-cov
+
+# Coverage directory
+coverage
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Uploads (keep folder structure, not files)
+uploads/*
+!uploads/.gitkeep
+!uploads/temp/.gitkeep
+!uploads/issues/.gitkeep
+
+# Database
+*.sqlite
+*.db
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build files
+dist/
+build/
+
+# Temporary files
+*.tmp
+.cache/
