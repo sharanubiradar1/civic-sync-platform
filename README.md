@@ -1,24 +1,24 @@
-# 🏙️ CivicSync - Smart City Issue Reporting Platform
+# CivicSync - Smart City Issue Reporting Platform
 
 A full-stack web application for reporting and managing civic issues in smart cities.
 
-## ✨ Features
+##  Features
 
-- 🔐 User Authentication (JWT)
-- 📝 Report Issues with Photos & Location
-- 🗺️ Interactive Map View
-- 📊 Analytics Dashboard
-- 👍 Upvote & Comment on Issues
-- 🔔 Real-time Notifications
-- 📱 Fully Responsive Design
+-  User Authentication (JWT)
+-  Report Issues with Photos & Location
+-  Interactive Map View
+-  Analytics Dashboard
+-  Upvote & Comment on Issues
+-  Real-time Notifications
+-  Fully Responsive Design
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** React.js, Leaflet, Chart.js, React Router
 
 **Backend:** Node.js, Express.js, MongoDB, JWT, Multer
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend Setup
 ```bash
@@ -50,12 +50,12 @@ text
 
 REACT_APP_API_URL=http://localhost:5000/api
 REACT_APP_BACKEND_URL=http://localhost:5000
-📖 Usage
+ Usage
 Register at http://localhost:3000/register
 Login and start reporting issues
 View issues on map or list
 Track progress on dashboard
-📁 Project Structure
+ Project Structure
 text
 
 civic-sync-platform/
@@ -92,7 +92,7 @@ civic-sync-platform/
 ├── screenshots/                 # App screenshots
 ├── .gitignore
 └── README.md
-🔑 Key Features
+ Key Features
 Backend
 RESTful API with Express.js
 MongoDB with Mongoose ODM
@@ -106,9 +106,9 @@ Context API for state management
 Leaflet Maps integration
 Chart.js for analytics
 Responsive design
-🤝 Contributing
+ Contributing
 Contributions are welcome! Feel free to submit a Pull Request.
 
-👨‍💻 Author
+ Author
 Sharanagouda Biradar
 GitHub: @sharanubiradar1
